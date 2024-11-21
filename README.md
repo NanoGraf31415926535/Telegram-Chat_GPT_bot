@@ -1,4 +1,4 @@
-1. Set Up Your Telegram Bot
+# 1. Set Up Your Telegram Bot
 Contact BotFather:
 Open Telegram and search for BotFather.
 Start a chat with BotFather and use the /newbot command.
@@ -6,7 +6,7 @@ Follow the instructions to name your bot and get your bot token.
 Save Your Bot Token:
 BotFather will provide you with a token (a string like 123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11).
 Keep this token secure—it’s your bot’s key to the Telegram API.
-2. Set Up ChatGPT API Access
+# 2. Set Up ChatGPT API Access
 Get OpenAI API Key:
 Sign up at OpenAI if you haven’t already.
 Go to your OpenAI API settings and create an API key.
